@@ -1,5 +1,6 @@
 # virtual envs
 env
+__pycache__
 
 ### NextJS ###
 # dependencies
